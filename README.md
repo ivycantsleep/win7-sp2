@@ -3,6 +3,7 @@
 > This project is far from finished, meaning that bugs are to be expected. If you encounter any bugs, please report them in the issue tracker or in the Discord server. Thank you for your understanding. 
 
 Windows 7 Service Pack 2 is a package consisting of updates, tweaks, backported apps and overall enhancements with the goal of providing an effortless way to have a fully updated Windows 7 ISO and enhancing usability on semi-modern machines.
+
 ## Planned features
 - All updates until 2020, with the addition of Windows Embedded Standard 7 updates
 - Snipping Tool from Windows 10 version 1507
@@ -17,6 +18,7 @@ Windows 7 Service Pack 2 is a package consisting of updates, tweaks, backported 
 - Upscaled graphics in some places
 - Windows Vista/7 PE's boot screen on the ISO
 - Removal of the annoying "Unsupported hardware" prompt
+
 ## Installation
 > [!CAUTION]
 > Failure to follow instructions properly will result in a bricked system! We do not take responsibility for this unless this is a legitimate bug in the installer!
