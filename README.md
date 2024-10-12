@@ -53,7 +53,6 @@ A: **NO**
 ## Credits
 ### Developers
 - Alureon
-- h4rl
 ### Honorable mentions
 - Microsoft Corporation: Windows 7 operating system. *Windows 7 Service Pack 2 is by no means affiliated with Microsoft Corporation.*
 - K4sum1: Inspiration (this project is inspired from the Windows 7 Updated ISO by K4sum1)
