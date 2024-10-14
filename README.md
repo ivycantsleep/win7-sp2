@@ -1,4 +1,5 @@
 # Windows 7 Service Pack 2
+
 > [!WARNING]
 > This project is far from finished, meaning that bugs are to be expected. If you encounter any bugs, please report them in the issue tracker or in the Discord server. Thank you for your understanding. 
 
