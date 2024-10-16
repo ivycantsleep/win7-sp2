@@ -51,6 +51,7 @@ A: ESU updates will be rolled out by Microsoft until 2026, and unfortunately add
 A: VxKex is safer than dotexe's Windows 7 Extended Kernel as it relies on external DLLs.
 ### Q: Does this include custom integrated GPU dri-
 A: **NO**
+
 ## Credits
 ### Developers
 - Alureon
