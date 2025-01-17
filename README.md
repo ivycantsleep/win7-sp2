@@ -25,7 +25,7 @@ Windows 7 Service Pack 2 is a package consisting of updates, tweaks, backported 
 > Failure to follow instructions properly will result in a bricked system! We do not take responsibility for this unless this is a legitimate bug in the installer!
 
 > [!IMPORTANT]
-> RAID Storage is not supported. Only NVMe is added. Read below in the FAQ for why we did not add RAID.
+> RAID/Intel RST only works on specific systems!
 
 > [!WARNING]
 > Both versions of the Windows 7 Service Pack 2 are x64 only! Don't file issues over the lack of 32-bit hardware support as we do not plan to support 32-bit hardware. Consult the FAQ for more information.
@@ -62,3 +62,4 @@ A: **NO**
 - Aurorarion: Some app backports and themed controls in the ISO's autorun
 - ImSwordQueen: Windows 7 theme used in the installation media's PE
 - Private Testers
+
