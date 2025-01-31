@@ -56,6 +56,7 @@ A: **NO**
 ### Developers
 - Alureon
 ### Honorable mentions
+- Jevil7452: Patches, app backports, and the Windows 10 setup engine
 - Microsoft Corporation: Windows 7 operating system. *Windows 7 Service Pack 2 is by no means affiliated with Microsoft Corporation.*
 - K4sum1: Inspiration (this project is inspired from the Windows 7 Updated ISO by K4sum1)
 - vxiduu: VxKex and SnippingToolEx
